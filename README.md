@@ -1,3 +1,5 @@
+Here’s a ready-to-use template you can use as the `README.md` file content for your **Blood Bank Management System** GitHub repository. You can paste this text in the README.md file and include it during your upload.
+
 ---
 
 # 🩸 Blood Bank Management System
@@ -83,3 +85,11 @@ node server.js
 * No authentication layer is implemented yet (you can enhance it).
 
 ---
+
+## 📃 License
+
+This project is licensed under the [ISC License](LICENSE) - free to use for educational and personal projects.
+
+---
+
+Let me know if you also want a `.gitignore` or `.env` example file.
